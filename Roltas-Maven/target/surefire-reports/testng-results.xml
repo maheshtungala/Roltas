@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="31856" started-at="2019-02-05T09:35:10Z" finished-at="2019-02-05T09:35:42Z">
+    <groups>
+    </groups>
+    <test name="myTest" duration-ms="31856" started-at="2019-02-05T09:35:10Z" finished-at="2019-02-05T09:35:42Z">
+      <class name="myPack1.Rolta">
+        <test-method status="PASS" signature="m1()[pri:0, instance:myPack1.Rolta@1b64c45]" name="m1" duration-ms="0" started-at="2019-02-05T15:05:42Z" finished-at="2019-02-05T15:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:myPack1.Rolta@1b64c45]" name="m2" duration-ms="0" started-at="2019-02-05T15:05:42Z" finished-at="2019-02-05T15:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- myPack1.Rolta -->
+      <class name="myPack.Roltas">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Roltas@f438e]" name="addEmp" duration-ms="26875" started-at="2019-02-05T15:05:10Z" finished-at="2019-02-05T15:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Roltas@f438e]" name="deleteEmp" duration-ms="3" started-at="2019-02-05T15:05:37Z" finished-at="2019-02-05T15:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Roltas@f438e]" name="editEmp" duration-ms="0" started-at="2019-02-05T15:05:37Z" finished-at="2019-02-05T15:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Roltas@f438e]" name="verifyLogin" duration-ms="4962" started-at="2019-02-05T15:05:37Z" finished-at="2019-02-05T15:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Roltas -->
+    </test> <!-- myTest -->
+  </suite> <!-- mySuite -->
+</testng-results>
